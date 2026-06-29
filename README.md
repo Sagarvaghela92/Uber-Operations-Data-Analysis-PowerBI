@@ -1,3 +1,4 @@
+
 # 🚖 Uber Operations Dashboard (Power BI)
 
 ## 📌 Project Overview
@@ -16,7 +17,7 @@ Developed an executive-level Power BI dashboard to track demand, revenue, and fl
 - **Data Cleaning:** Power Query (Data validation, handling blanks, formatting text columns).
 
 ## 🖼️ Dashboard Preview
-![Dashboard Home](Screenshots/Screenshot 2026-06-29 201321.jpg)
+![Dashboard Home]<img width="961" height="537" alt="Screenshot 2026-06-29 201321" src="https://github.com/user-attachments/assets/47b66e95-686a-42e0-bfa1-bc74b9c8932e" />
 
 ## 💡 Business Recommendations Based on Analysis
 1. **Optimize Driver Allocation:** Allocate more drivers to high-demand areas like IAH Airport and Sugar Land during peak hourly demand waves.
