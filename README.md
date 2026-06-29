@@ -16,7 +16,7 @@ Developed an executive-level Power BI dashboard to track demand, revenue, and fl
 - **Data Cleaning:** Power Query (Data validation, handling blanks, formatting text columns).
 
 ## 🖼️ Dashboard Preview
-![Dashboard Home](Screenshot 2026-06-29 201321.jpg)
+![Dashboard Home](Power BI Project/Screenshot 2026-06-29 201321.jpg)
 
 ## 💡 Business Recommendations Based on Analysis
 1. **Optimize Driver Allocation:** Allocate more drivers to high-demand areas like IAH Airport and Sugar Land during peak hourly demand waves.
